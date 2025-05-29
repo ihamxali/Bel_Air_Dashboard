@@ -1,4 +1,4 @@
-# 🍛 Bel'Air Resturant Analytics Dashboard
+# Bel'Air Resturant Analytics Dashboard
 ## Bel'Air Tandoori - Business Intelligence Platform
 
 A business intelligence dashboard designed specifically for Bel'Air Tandoori Restaurant in Besançon, France. This analytics platform provides real-time insights into restaurant performance, customer behavior, and operational efficiency to drive data-driven decision making.
