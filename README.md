@@ -40,7 +40,7 @@ A business intelligence dashboard designed specifically for Bel'Air Tandoori Res
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/ihamxali/Bel_Air_Dashboard]
    cd restaurant-analytics-dashboard
    ```
 
@@ -66,7 +66,7 @@ A business intelligence dashboard designed specifically for Bel'Air Tandoori Res
    ```
 
 5. **Access the dashboard**
-   Open your browser and navigate to `https://chic-longma-f86a3a.netlify.app`
+   Open your browser and navigate to https://chic-longma-f86a3a.netlify.app
 
 ## 📊 Dashboard Components
 
