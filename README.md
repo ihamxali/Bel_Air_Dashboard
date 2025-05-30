@@ -3,7 +3,7 @@
 
 A business intelligence dashboard designed specifically for Bel'Air Tandoori Restaurant in Besançon, France. This analytics platform provides real-time insights into restaurant performance, customer behavior, and operational efficiency to drive data-driven decision making.
 
-## 🌟 Key Features
+## Key Features
 
 ### Real-Time Performance Monitoring
 - **Live KPI Dashboard**: Track total orders, revenue, average order value, and peak hours
@@ -29,43 +29,7 @@ A business intelligence dashboard designed specifically for Bel'Air Tandoori Res
 - **Drill-Down Capabilities**: Detailed view of specific metrics and time periods
 - **Export Ready**: Clean data presentation suitable for reports
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
-- React development environment
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/ihamxali/Bel_Air_Dashboard]
-   cd restaurant-analytics-dashboard
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Install required packages**
-   ```bash
-   npm install react recharts lucide-react
-   # or
-   yarn add react recharts lucide-react
-   ```
-
-4. **Start the development server**
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-
-5. **Access the dashboard**
+### Access the dashboard
    Open your browser and navigate to https://chic-longma-f86a3a.netlify.app
 
 ## 📊 Dashboard Components
