@@ -32,7 +32,7 @@ A business intelligence dashboard designed specifically for Bel'Air Tandoori Res
 ### Access the dashboard
    Open your browser and navigate to https://chic-longma-f86a3a.netlify.app
 
-## 📊 Dashboard Components
+##  Dashboard Components
 
 ### KPI Overview Cards
 - **Total Orders**: Weekly order count with growth percentage
@@ -150,7 +150,7 @@ Update the color palette for charts:
 const COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7300', '#8dd1e1'];
 ```
 
-## 📈 Business Metrics Explained
+##  Business Metrics Explained
 
 ### Key Performance Indicators (KPIs)
 
@@ -198,7 +198,7 @@ const COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7300', '#8dd1e1'];
 - **Consistent Spending**: €27-31 average order value
 - **Service Preference**: Dinner service dominant
 
-## 🔍 Usage Guidelines
+##  Usage Guidelines
 
 ### Daily Operations
 1. **Morning Review**: Check overnight performance and trends
@@ -218,7 +218,7 @@ const COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7300', '#8dd1e1'];
 3. **Customer Segmentation**: Develop targeted marketing campaigns
 4. **Operational Efficiency**: Streamline based on performance data
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 ### Built With
 - **React 18**: Modern frontend framework with hooks
@@ -249,7 +249,7 @@ RestaurantDashboard/
 - **Data Caching**: Minimal re-calculations
 - **Lazy Loading**: Progressive data loading
 
-## 🚀 Advanced Features
+## Advanced Features
 
 ### Data Integration Capabilities
 - **POS System Integration**: Real-time sales data import
@@ -282,7 +282,7 @@ RestaurantDashboard/
 - **GDPR Compliance**: Full European privacy regulation compliance
 - **Audit Trail**: Complete activity logging
 
-## 🚀 Future Roadmap
+##  Future Roadmap
 
 ### Short-term Enhancements
 - **Real-time Data**: Live POS system integration
